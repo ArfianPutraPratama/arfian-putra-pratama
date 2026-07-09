@@ -9,10 +9,10 @@ export const projects = [
   {
     id: 11,
     title: "Aplikasi Pencatatan Keuangan",
-    category: "Mobile Dev",
+    category: "Web Dev",
     description:
       "Aplikasi modern untuk mencatat pengeluaran dan pemasukan harian dengan fitur analitik dan laporan keuangan secara berkala.",
-    tech: ["Flutter", "Dart", "Firebase"],
+    tech: ["Laravel", "PHP", "MySQL"],
     color: "#3498db",
     image: "/images/pencatatankeuangan.png",
     github: "#",
