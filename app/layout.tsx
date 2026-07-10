@@ -52,6 +52,11 @@ export const metadata: Metadata = {
     locale: "id_ID",
     type: "website",
   },
+  icons: {
+    icon: '/images/fian.jpeg',
+    shortcut: '/images/fian.jpeg',
+    apple: '/images/fian.jpeg',
+  },
   robots: {
     index: true,
     follow: true,
