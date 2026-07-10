@@ -20,13 +20,15 @@ const _jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.arfian-putra-pratama.my.id"),
   title: "Arfian Putra Pratama | Software Engineer & AI Enthusiast",
-  description: "Portofolio resmi Arfian Putra Pratama, mahasiswa UNESA. Spesialis Mobile App Developer (Flutter), Web Developer (Next.js), dan pemerhati Artificial Intelligence.",
+  description: "Portofolio resmi Arfian Putra Pratama, mahasiswa Manajemen Informatika UNESA. Spesialis Mobile App Developer (Flutter), Web Developer (Next.js), dan pemerhati Artificial Intelligence.",
   keywords: [
     "Arfian Putra Pratama",
     "Portofolio Arfian Putra Pratama",
     "UNESA",
     "Universitas Negeri Surabaya",
     "Mahasiswa UNESA",
+    "Manajemen Informatika UNESA",
+    "Arfian Putra Pratama Unesa Manajemen Informatika",
     "Portofolio IT",
     "Software Engineer Indonesia",
     "Mobile Developer",
